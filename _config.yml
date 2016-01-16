@@ -1,0 +1,29 @@
+name: iammichaelneal
+favicon: null
+layout_spectrum: 0.6045936094596982
+typography_spectrum: 0.611125489231199
+title: Michael Neal
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.06386331771500409
+  lightness: 0.04821914085187018
+  saturation: 0.1011835855897516
+  rhythmicContrast: 0.8944102767854929
+purpose: []
